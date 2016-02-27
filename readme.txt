@@ -6,3 +6,4 @@ Git changes again.
 connect github sky54laozhu/learngit.git.
 creating a new branch is quick and simple.
 add normal ususal ordinary.
+Git is free software.
