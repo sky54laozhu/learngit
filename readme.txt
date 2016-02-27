@@ -8,3 +8,4 @@ creating a new branch is quick and simple.
 add normal ususal ordinary.
 git stash.
 Git is free software.
+Add /usr/bin/env.
